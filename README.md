@@ -23,7 +23,7 @@ Most modern platforms effectively do the same thing:
 - Delays are: steps that wait until a specific thing happens. This might be a time relative to the previous step (+3 hours later) _or_ an awaited mutation on a contact record
 - A contact can't exist at two places in an automation
 
-Ultimately, an ESP with marketing automation functionality is really a job queue with decision making capabilities that happens to sometime send emails.
+Ultimately, an ESP with marketing automation functionality is really a job queue with decision making capabilities that happens to sometimes send emails.
 
 Most email marketing platforms get in the way by layering a limited user interface on top of the retrieving or storing of the content and rules that define a complete system.
 
