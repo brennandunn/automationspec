@@ -131,7 +131,7 @@ class AutoPitcher < Flow
   def perform
   
     ## every ten newsletters, we should pull someone out of our newsletter and send them an automated pitch sequence
-    if contact.newsletter_sent % 10 == 0
+    if contact.newsletters_sent % 10 == 0
       contact.should_get_newsletters = false
       delay 3.days
       contact.fire_event! :start_pitch, then: { |c| c.should_get_newsletters = true }
