@@ -6,7 +6,7 @@ We'd like to help develop a standard for the operation of email service provider
 
 We're not sure where this will go.
 
-Initially, this is a bit of a rallying cry from technically-minded marketers who the software we use to be better and more accessible. But – who knows – this might eventually develop into a proper framework that can be spun up and attached to any contact datastore, SMTP service, or SMS-sending platform.
+Initially, this is a bit of a rallying cry from technically-minded marketers who want the software we use to be better and more accessible. But – who knows – this might eventually develop into a proper framework that can be spun up and attached to any contact datastore, SMTP service, or SMS-sending platform.
 
 Let's start with what you actually get with an ESP.
 
